@@ -47,9 +47,14 @@ a:hover {
 }
 
 .icons a {
-    color: black;
+    color: #007885;
 }
 
 .icons a:hover {
-    color: #1565c0;
+    color: black;
+}
+
+h1 {
+    /* color: #ff0772; */
+    color: #007885;
 }
